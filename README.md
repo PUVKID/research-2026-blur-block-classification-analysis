@@ -64,7 +64,19 @@ EfficientNetV2-S 하계 연구 자료는 통합 폐 CT 연구 저장소에서 �
 
 <div align="center">
 
-**Kwak Yunsuk · [PUVKID](https://github.com/PUVKID)**  
+**[Kwak Yunsuk](https://github.com/PUVKID)**  
 하계 연구의 기록을 보존하고 다음 연구로 연결합니다.
 
 </div>
+
+
+<details>
+<summary>🧹 공개 자료 정리 기록</summary>
+
+| 검수 대상 | 연결 자료 | 상세·이번 비교 |
+| :--- | :--- | :--- |
+| **기존 코드와 자료** | [📁 검수 자료](docs/publication-review) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
+
+[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
+
+</details>
